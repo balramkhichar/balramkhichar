@@ -1,8 +1,6 @@
 <h2>Hi, I'm Balram Khichar <img src="https://user-images.githubusercontent.com/5222604/172104819-01eefc71-7aa4-4ade-9f17-806fa84953f4.gif" width="40"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/5222604/172104826-f3f4007a-2eb2-4046-8e2b-61b3c51111b6.gif" width="360">
 
-#### I'm a Frontend Engineer working in Bengaluru, India. 🇮🇳
-
 ##### NOW
 
 - ✨ Building [Rippling](https://www.rippling.com)
@@ -12,6 +10,7 @@
 
 ##### BIO
 
+- 📍 Bengaluru, India
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.py`
 - 🎖 Founded: [AfterKlap](https://www.producthunt.com/products/afterklap)
 - 🌱 Learning all about **Open Source**
