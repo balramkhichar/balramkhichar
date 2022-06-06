@@ -8,6 +8,7 @@
 - ✨ Building [Rippling](https://www.rippling.com)
 - 🇫🇷 Planing the visit "France"
 - 📘 Reading "Atomic Habits"
+- 🕹️ Playing "Gran Turismo 7"
 
 ##### BIO
 
